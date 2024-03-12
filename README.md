@@ -50,7 +50,6 @@ Welcome to the exhibition history of QuantumSpirit. Below is a list of exhibitio
   Location: Xidan Joy City, Beijing, China  
   Date: November 1-15, 2023
 
-[Continue listing exhibitions for the year 2023 as per your provided list]
 
 ## 2022
 
@@ -84,6 +83,5 @@ Welcome to the exhibition history of QuantumSpirit. Below is a list of exhibitio
   Location: Spacial XR  
   Date: March 2022-2023
 
-[Continue listing exhibitions for the year 2022 as per your provided list]
 
 Thank you for exploring my exhibition history. For more information or inquiries about my artworks, feel free to contact me.
